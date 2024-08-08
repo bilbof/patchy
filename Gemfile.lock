@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    diffy (3.4.2)
+
+PLATFORMS
+  ruby
+  x86_64-darwin-21
+
+DEPENDENCIES
+  diffy (~> 3.4)
+
+RUBY VERSION
+   ruby 3.2.2p53
+
+BUNDLED WITH
+   2.5.17
